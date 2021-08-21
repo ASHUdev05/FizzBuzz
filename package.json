@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ASHUdev05",
+  "license": "MIT",
+  "description": "The famous FizzBuzz solution"
+}
