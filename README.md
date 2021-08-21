@@ -5,7 +5,7 @@ I have tried to cover it in many languages.
 
 ## Installation
 
-Use ```$ git clone```.
+Use ```$ git clone https://github.com/ASHUdev05/FizzBuzz.git```.
 
 ```bash
 $ git clone
