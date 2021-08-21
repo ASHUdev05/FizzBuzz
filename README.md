@@ -5,10 +5,10 @@ I have tried to cover it in many languages.
 
 ## Installation
 
-Use ```$ git clone https://github.com/ASHUdev05/FizzBuzz.git```.
+Use ```$ git clone```.
 
 ```bash
-$ git clone
+$ git clone https://github.com/ASHUdev05/FizzBuzz.git
 ```
 
 ## Usage
