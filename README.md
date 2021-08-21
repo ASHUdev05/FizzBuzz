@@ -1,3 +1,10 @@
+![](https://img.shields.io/github/license/ASHUdev05/FizzBuzz)
+![]()
+![]()
+![]()
+![]()
+
+
 # FizzBuzz
 
 FizzBuzz is a famous interview question.
