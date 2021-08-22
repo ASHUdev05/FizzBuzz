@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/stars/ASHUdev05/FizzBuzz)
 ![](https://img.shields.io/github/issues/ASHUdev05/FizzBuzz)
 ![](https://img.shields.io/github/languages/count/ASHUdev05/FizzBuzz)
-![Build Status](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/badges/build.png?b=main)](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/build-status/main)
+![Build Status](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/badges/build.png?b=main)(https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/build-status/main)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/?branch=main)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c7e82ae122f748cf9d34934df0e1989e)](https://www.codacy.com/gh/ASHUdev05/FizzBuzz/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ASHUdev05/FizzBuzz&amp;utm_campaign=Badge_Grade)
 ![]()
