@@ -6,11 +6,6 @@
 [![Build Status](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/badges/build.png?b=main)](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/build-status/main)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/ASHUdev05/FizzBuzz/?branch=main)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c7e82ae122f748cf9d34934df0e1989e)](https://www.codacy.com/gh/ASHUdev05/FizzBuzz/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ASHUdev05/FizzBuzz&amp;utm_campaign=Badge_Grade)
-![]()
-![]()
-![]()
-![]()
-![]()
 # FizzBuzz
 FizzBuzz is a famous interview question.
 I have tried to cover it in many languages.
